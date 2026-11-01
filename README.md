@@ -2,7 +2,7 @@
 
 **A robotic arm built from three stacked tilting platforms, with camera-based tracking.**
 
-[![Stewart Stack demo video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtube.com/shorts/B0Hum-vTiDE?feature=share)
+[![Stewart Stack demo video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/shorts/jpCfm0YMLgY)
 
 ▶️ *Click the image to watch the demo on YouTube.*
 
